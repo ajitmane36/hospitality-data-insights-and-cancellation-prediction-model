@@ -1,1 +1,1 @@
-# hospitality-data-insights-and-cancellation-prediction-model
+# Hospitality-Data-Insights-and-Cancellation-Prediction
